@@ -1,0 +1,3 @@
+link_teknik_informatika = "https://www.freelancer.co.id/jobs/android_website-development_frontend-development_backend-development_machine-learning_deep-learning_internet-of-things/1/?languages=en"
+link_manajemen_bisnis = "https://www.freelancer.co.id/jobs/marketing_market-analysis_digital-marketing_google-ads_facebook-ads/1/?languages=en"
+link_desain_grafis = "https://www.freelancer.co.id/jobs/graphic-design_logo-design_banner-design_3d-design/1/?languages=en"
